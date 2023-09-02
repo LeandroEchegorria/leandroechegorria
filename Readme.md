@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leandroechegorria&label=Profile%20views&color=0e75b6&style=flat" alt="leandroechegorria" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-theta-gold-19.vercel.app/](https://portfolio-theta-gold-19.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-theta-gold-19.vercel.app/" target="blank">LINK</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
